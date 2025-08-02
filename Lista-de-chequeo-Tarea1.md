@@ -16,7 +16,7 @@
 
 ## 3. Flujos Críticos
 
-_(Estos dependerán del tipo de sistema, adapta según el contexto)_
+_(Estos dependerán del tipo de sistema, adaptar según el contexto y/o si aplican)_
 
 - [ ] Registro de usuario (campos obligatorios, validación, éxito).
 - [ ] Inicio de sesión / recuperación de contraseña.
