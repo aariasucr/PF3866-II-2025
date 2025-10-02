@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:accessibility": "ts-node tests/demo-accessibility-test.ts",
+    "test:form": "ts-node tests/demo-form-interaction.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@axe-core/puppeteer": "^4.10.2",
+    "@types/node": "^24.6.1",
+    "puppeteer": "^24.23.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
